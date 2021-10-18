@@ -16,22 +16,22 @@ maps
 		}
 		defaulttoptexture = "ICKWALL1";
 		overridemiddletexture = false;
-		viewpositionx = -3668.938f;
-		viewpositiony = -501.0077f;
-		viewscale = 0.2555798f;
+		viewpositionx = -8452.399f;
+		viewpositiony = -1361.346f;
+		viewscale = 0.803586f;
 		overridefloortexture = false;
 		customceilheight = 128;
 		customfloorheight = 0;
 		
 		grid
 		{
-			backoffsety = 0;
-			backoffsetx = 0;
-			backscalex = 100;
-			gridsize = 8f;
 			background = "";
-			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
 			backscaley = 100;
+			backsource = 0;
+			gridsize = 32f;
 		}
 		defaultceiltexture = "CEIL3_5";
 		overridebrightness = false;
@@ -44,76 +44,5 @@ maps
 		overrideceiltexture = false;
 		defaultwalltexture = "ICKWALL1";
 		defaultbottomtexture = "ICKWALL1";
-		
-		plugins
-		{
-			
-			stairsectorbuilder
-			{
-				
-				prefabs
-				{
-					
-					prefab1
-					{
-						name = "[Previous]";
-						numberofsectors = 8;
-						outervertexmultiplier = 1;
-						innervertexmultiplier = 1;
-						stairtype = 0;
-						sectordepth = 16;
-						spacing = 0;
-						frontside = true;
-						singlesectors = false;
-						singledirection = false;
-						distinctbaseheights = false;
-						flipping = 0;
-						numberofcontrolpoints = 1;
-						applyfloormod = true;
-						floormod = -8;
-						applyceilingmod = true;
-						ceilingmod = 0;
-						applyfloortexture = false;
-						floortexture = "";
-						applyceilingtexture = false;
-						ceilingtexture = "";
-						applyuppertexture = true;
-						uppertexture = "-";
-						upperunpegged = true;
-						applymiddletexture = false;
-						middletexture = "-";
-						applylowertexture = true;
-						lowertexture = "FLOOR3_3";
-						lowerunpegged = true;
-					}
-				}
-			}
-		}
-		
-		scriptdocuments
-		{
-			
-			document0
-			{
-				filename = "SCRIPTS";
-				hash = 3469170009;
-				resource;
-				tabtype = 0;
-				scripttype = 1;
-				caretposition = 8137;
-				firstvisibleline = 241;
-				activetab = true;
-				foldlevels = "1024:26,52,129,139";
-			}
-			
-			document1
-			{
-				filename = "D:\\NonSSDGames\\Doom\\Brutal Doom\\brutalv21.pk3\\DECORATE";
-				hash = 561074299;
-				resource = "D:\\NonSSDGames\\Doom\\Brutal Doom\\brutalv21.pk3";
-				tabtype = 1;
-				scripttype = 3;
-			}
-		}
 	}
 }
