@@ -1,0 +1,78 @@
+Arena Gate
+House of Pain
+Abandoned UAC Outposts
+Citadel of the Hollow - Entrance
+UAC Base - Invasion
+Teleportation Transit
+Abandoned Ruins - Ambush
+Chemical Plant
+Glacial Garrisons
+ATF Starship - Invasion
+Citadel - Colosseum
+Citadel - Blood Throne
+* Reclaim UAC Base
+* Metropolis - Streets
+* Metropolis - Highrise
+* Metropolis - Military Base
+* Final Showdown
+
+
+// Strange appearances of Arenas have occured
+
+Arena Gate
+    Deployed to the first arena, you learn these arenas are at ploy. 
+    A game for the amusement of a higher power.
+    Close the Soul "floodgates" and vanquish the foes to learn more of the rules at play.
+
+House of Pain
+    Continue to close Soul floodgates in the second arena handcrafted by the higher powers.
+
+Abandoned UAC Outposts
+    Reclaim UAC outposts abandoned long after the demon invasion
+
+Citadel of the Hollow - Entrance
+    You received transmission from an anonymous source challenging you to a special kind of arena.
+    The challenge is taken up in a strange ruin of a world.
+
+UAC Base - Invasion
+    A primary headquarter for UAC operations have been overrun from the demon invasion.
+    Arena Task Force (ATF) has been deployed to suppress the invasion.
+
+Teleportation Transit
+    Another challenge sees you in 3 sectors used to research ancient ruins. 
+    The inactive transit system needs to be re-engaged, to travel larger distances.
+
+Abandoned Ruins - Ambush
+    Something or someone interfered with the slipgate system. ATF starship is damaged.
+    Losing all your equipment you are thrusted into an arena to fend with only your brute strength.
+
+Chemical Plant
+    Running low on energy, you make a stop at an abandoned chemical plant.
+    Salvage what can be salvaged in the deadly maze-like arena.
+
+Glacial Garrisons
+    With the Starship on breaking point, you venture out to the Arctic wastes, to salvage sraps.
+    Hidden intel reveals the BFG facility is located here. But the higher powers are at play.
+    Enter at your own risk.
+
+ATF Starship - Invasion
+    Salvage of scraps was not enough. Your anonymous foe has launched a large scale invasion.
+    On your capitol ship, you must defend the engine, and by time for evacuees.
+
+Citadel of the Hollow - Colosseum
+    Immediately after the invasion, is the largest counter offensive launched by the coalition.
+    Returning to the ruin of a world you feel an odd presence watching your every move.
+
+Citadel of the Hollow - Blood Throne
+    After quenching arena after arena, you are greeted with the most dangerous foe. 
+    He is known as the Champion, he is you, but from another world.
+
+* Reclaim UAC Base
+    After a narrow victory, the Champion escapes through slipgate teleportation.
+    But conquering the Citadel was not enough. 
+    You rejoin with the coalition to reclaim one of many UAC Key headquaters.
+
+* Metropolis - Streets
+* Metropolis - Highrise
+* Metropolis - Military Base
+* Final Showdown
