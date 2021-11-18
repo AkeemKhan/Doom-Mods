@@ -19,6 +19,7 @@ Citadel - Blood Throne
 
 // Strange appearances of Arenas have occured
 
+// ACT 1 ============= THE ARENAS
 Arena Gate
     Deployed to the first arena, you learn these arenas are at ploy. 
     A game for the amusement of a higher power.
@@ -42,6 +43,7 @@ Teleportation Transit
     Another challenge sees you in 3 sectors used to research ancient ruins. 
     The inactive transit system needs to be re-engaged, to travel larger distances.
 
+// ACT 2 ============= Compromised
 Abandoned Ruins - Ambush
     Something or someone interfered with the slipgate system. ATF starship is damaged.
     Losing all your equipment you are thrusted into an arena to fend with only your brute strength.
@@ -67,12 +69,16 @@ Citadel of the Hollow - Blood Throne
     After quenching arena after arena, you are greeted with the most dangerous foe. 
     He is known as the Champion, he is you, but from another world.
 
-* Reclaim UAC Base
+// ACT 2 ============= LIBERATION
+Reclaim UAC Base
     After a narrow victory, the Champion escapes through slipgate teleportation.
     But conquering the Citadel was not enough. 
     You rejoin with the coalition to reclaim one of many UAC Key headquaters.
 
-* Metropolis - Streets
+Metropolis - Streets
+    You take to streets in a large counter offensive. The ARC Commander is heavily within battle. 
+    Cooperate with the commander to fend off the hell invasion and save the city.
+
 * Metropolis - Highrise
 * Metropolis - Military Base
 * Final Showdown
