@@ -79,6 +79,6 @@ Metropolis - Streets
     You take to streets in a large counter offensive. The ARC Commander is heavily within battle. 
     Cooperate with the commander to fend off the hell invasion and save the city.
 
-* Metropolis - Highrise
-* Metropolis - Military Base
-* Final Showdown
+* Metropolis - UAC Central Headquarters
+* DemonGate
+* Metropolis Highrise - Final Showdown
